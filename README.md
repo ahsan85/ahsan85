@@ -17,7 +17,7 @@ Comfortable across web, desktop, and mobile  wherever the workflow needs it.
 
 ## Selected Work 
 
-- 🌸 **[Oudilux](https://www.oudilux.com)** — oline perfume store
+- 🌸 **[Oudilux](https://www.oudilux.com)** — online perfume store
 - 📦 **[Codex Packaging](https://codexpackaging.com)** — custom packaging e-commerce platform
 - 🛒 **[Bukhari Mart](https://bukharismart.com)** — grocery/retail platform with companion mobile app
 - Workforce time tracking and offline-capable mobile workflows
